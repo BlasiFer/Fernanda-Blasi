@@ -9,5 +9,5 @@
     }
     
     .header {
-        background-color:#FFFFFF;
+        background-color:var(--cor-cabecalho);
     }
